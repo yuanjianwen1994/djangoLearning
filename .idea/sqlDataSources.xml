@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="820c522e-d232-4e35-8c18-e3c0e09ece98" name="Django default Mapping">
+      <data-sources db="e9c10581-ae0e-4e79-b512-7fbeef3b6666" ddl="03b9fb7f-d911-4fbf-9937-ac03fa2825ea" />
+      <scope>
+        <node kind="schema" qname="openseaethv2" />
+      </scope>
+    </mapping>
+  </component>
+</project>
